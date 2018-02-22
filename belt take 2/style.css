@@ -1,0 +1,157 @@
+*{
+	margin:0;
+	padding:0;
+}
+#wrapper{
+	background-color: #062134;
+	width:970px;
+}
+#wrapper h1{
+	color:#188bd3;
+	display: inline-block;
+	width:300px;
+	margin: 30px;
+}
+.wtext{
+	color:white;
+}
+.navbar{
+	display: inline-block;
+}
+.navbar li{
+	display: inline;
+	margin: 20px;
+	text-decoration: none;
+}
+.navbar a{
+	color: white;
+	text-decoration: none;
+	font-size: 16pt;
+	font-weight: bold;
+}
+#secondwrapper{
+	background-color: white;
+	width: 98%;
+}
+.mainimg{
+	width: 95%;
+	margin: 20px;
+}
+#triplesec{
+	margin-left: 15px;
+
+}
+.box{
+	display: inline-block;
+	width: 31%;
+	background-color: #1468a8;
+	margin-left: 10px;
+	height: 260px;
+	vertical-align: center;
+}
+.box img{
+	width:50px;
+	display: inline-block;
+	vertical-align: center;
+	margin-top: 5px;
+	margin-left: 5px;
+}
+.box h2{
+	display: inline-block;
+	width: 150px;
+	color: white;
+	vertical-align: top;
+	margin-top: 20px;
+}
+.box p{
+	width:90%;
+	margin: 10px;
+	color: white;
+}
+.button{
+	background-color: #46acec;
+	padding: 15px;
+	width: 150px;
+	margin-top: 15px;
+	margin-left: 15px;
+	border-radius: 10px;
+	color: white;
+	font-weight: bold;
+}
+#bottomhalf{
+	display: block;
+	margin-top:20px;
+	margin-left: 10px;
+}
+#bottomhalf h2{
+	display: inline;
+	width: 50%;
+	text-align: center;
+
+}
+.test{
+	margin-left: 300px;
+}
+#bottom{
+	display: inline-block;
+	vertical-align: top;
+	height: 200px;
+	margin-left: 15px;
+}
+#bottom img{
+	display: inline;
+	width: 32%;
+}
+#bottom ul{
+	display: inline-block;
+	width: 30%;
+	list-style-type: none;
+	font-size: 11pt;
+	vertical-align: top;
+	margin-left: 10px;
+}
+#bottom li{
+	margin: 5px;
+	display: inline-block;
+	width:100%;
+}
+
+#bottom a{
+	display:inline-block;
+	width: 10%;
+	vertical-align: bottom;
+}
+#footer li{
+	display: inline;
+	width: 100%;
+	list-style-type: none;
+	margin: 20px;
+}
+#footer{
+	text-align: center;
+	padding: 20px;
+	background-color: lightblue;
+}
+#footer a{
+	text-decoration: none;
+}
+.blutxt{
+	color: lightblue;
+	font-size: 16pt;
+}
+.bluback{
+	background-color: lightblue;
+	font-size: 16pt;
+	text-align: center;
+	display: block;
+	vertical-align: top;
+	margin-left: 15px;
+	padding: 15px;
+}
+.sam{
+	display:block;
+}
+#stupid{
+	display: inline-block;
+	width: 300px;
+}

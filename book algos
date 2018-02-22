@@ -1,0 +1,34 @@
+var myNumber = 42
+var myName = Blaine
+
+var temp = myNumber;
+myNumber = myName;
+myName = temp;
+
+
+
+
+for (var i = -52; i <= 1066; i++){
+	console.log(i);}
+
+
+
+
+function beCheerful(){
+	console.log("good morning");
+	}
+	for (var i = 0; i < 98; i++){
+	beCheerful();
+	}
+
+
+
+
+for (var i = -300; i <= 0; i+3){
+	if (i != -3 || i != -6){
+	console.log(i);}
+}
+
+
+
+

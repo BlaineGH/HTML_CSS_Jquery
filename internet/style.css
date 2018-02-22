@@ -1,0 +1,170 @@
+*{
+	margin:0;
+	padding:0;
+}
+#globe{
+	width:10%;
+	display: inline-block;
+	margin-bottom: -4%;
+}
+#wrapper{
+	width:970px;
+	height: 1050px;
+
+}
+#tititle{
+	display: inline-block;
+	font-size: 5em;
+}
+.tinet{
+	color: #23659e;
+}
+#www{
+	background: linear-gradient(#25669e, #4f81ac, #25669e);
+	padding:2%;
+	font-size: 3em;
+	color:white;
+	width:970px;
+}
+#sources{
+	display: inline-block;
+	width:18%;
+	background: linear-gradient(to bottom,#e5e5e5,#ffffff);
+}
+#blubutton{
+	background-color: #588fbc;
+	padding:5px;
+	border-radius: 10px;
+	color:white;
+	margin-top: 10px;
+	width:80%;
+	margin-left: 5px;
+}
+#sow{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+#redtext{
+	color:red;
+	text-decoration: bold;
+}
+#orgbutton{
+	background-color: orange;
+	border-radius: 10px;
+	padding: 5px;
+	color:white;
+	margin-bottom: 20px;
+	margin-left: 5px;
+}
+#info{
+	display: inline-block;
+	width: 82%;
+	vertical-align: top;
+	height: 100px;
+	background: linear-gradient(to bottom,#e5e5e5,#ffffff);
+}
+#home{
+	width:15px;
+	text-align: top;
+	vertical-align: top;
+	margin-top: 5px;
+}
+#phone{
+	width: 65px;
+	margin-left: 62%;
+}
+#contactinfo{
+	display: inline-block;
+	text-align: center;
+	list-style-type: none;
+}
+#info p{
+	display: inline-block;
+	vertical-align: top;
+	margin-top: 5px;
+	font-size:12pt;
+}
+#bigblu{
+	color: #07c1df;
+	font-size: 2em;
+	font-weight: bold;
+}
+.smlgrey{
+	color:grey;
+	font-size: 10pt;
+}
+hr{
+	margin-top: 10px;
+}
+}
+#maininfo{
+	display: inline-block;
+	width: 100%;
+
+}
+#servclient{
+	width: 30%;
+	margin-left: 250px;
+}
+.mainlist{
+	margin-left: 30px;
+}
+#maininfo p{
+	margin-bottom: 10px;
+}
+.title{
+	color: #23669e;
+	margin-bottom: 10px;
+}
+#ad{
+	display: inline-block;
+	width:100%;
+	text-align: center;
+	color: white;
+	font-size: 16pt;
+	vertical-align: top;
+}
+#bluback{
+	display: inline-block;
+	width: 100%;
+	margin-bottom: -250px;
+	height:100%; 
+}
+#ninja{
+	width: 40%
+}
+#adbutton{
+	background-color: #4ecbde;
+	padding:5px;
+	border-radius: 10px;
+	color:white;
+	margin-top: 10px;
+	width:80%;
+}
+#b3img{
+	width: 100px;
+	display: inline;
+	vertical-align: top;
+}
+#big3{
+	width: 100%;
+	height: 125px;
+	border: solid;
+	border-color: #0085e0;
+}
+#big3 h2{
+	display: block;
+	width: 50%;
+	vertical-align: top;
+	color: #316fa5;
+}
+#big3 p{
+	display: block;
+	width: 600px;
+	vertical-align: top;
+	margin: 0px;
+}
+#big3 div {
+	width:80%;
+	display: inline-block;
+}

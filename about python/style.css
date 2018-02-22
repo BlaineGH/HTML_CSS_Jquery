@@ -1,0 +1,119 @@
+*{
+	margin: 0;
+	padding:0;
+}
+#wrapper{
+	width:970px;
+	height: 1050px;
+	background: linear-gradient(to bottom right, #245076, #245076);
+	text-align: center;
+}
+#header{
+	display: inline-block;
+	width:350px;
+	height: 200px;
+	vertical-align: top;
+	text-align: right;
+}
+#headerimg{
+	display: inline-block;
+	padding:10px;
+	vertical-align: center;
+	width:50%;
+}
+#menu{
+	background: #447dad;
+	display: inline-block;
+	font-size: 22pt;
+	text-align: center;
+	border:solid;
+	border-radius: 10px;
+	padding:10px;
+	margin-bottom: 5px;
+
+}
+.imenu{
+	text-decoration: none;
+	color:white;
+	margin:10px;
+}
+#list{
+	display: inline-block;
+	font-size: 20pt;
+	text-decoration: underline;
+	color: white;
+	margin-right: 10px;
+	list-style-position: inside;
+	vertical-align: 15px;
+}
+#threestack{
+	display: inline-block;
+	width: 625px;
+	margin:5px;
+	vertical-align: -30px;
+}
+#info{
+	color:white;
+	font-size: 13pt;
+}
+#stack{
+	list-style: none;
+	color:gold;
+	font-size: 20pt;
+	font-style: italic;
+}
+#zen{
+	color:white;
+	padding: 5px;
+	font-size: 16pt;
+}
+.winfo{
+	background-color: white;
+	display: inline-block;
+	width:485px;
+	height: 300px;
+	vertical-align: bottom;
+}
+ul{
+}
+.gs{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	text-align: center;
+	font-size: 16pt;
+}
+.gslist{
+	color:#447dad;
+	display: inline-block;
+	list-style-position: outside;
+	list-style-type: square;
+}
+.barone{
+	background-color:#447dad; 
+	display: inline-block;
+	width: 450px;
+	height: 3px;
+	margin:15px;
+}
+#bluetext{
+	color:#447dad;
+}
+.column{
+	width:350px;
+	text-align: center;
+	display: inline-block;
+}
+#footer{
+	margin-top: 105px;
+}
+.flinks{
+	margin:30px;
+	text-decoration: none;
+	color: white;
+	font-size: 20pt;
+	color: #447dad;
+}
+#copy{
+	margin:25px;
+	color: #447dad;
+}

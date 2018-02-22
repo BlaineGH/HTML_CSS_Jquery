@@ -1,0 +1,25 @@
+#wrapper{
+	width:970px;
+	height: 1050px;
+	background-color: black;
+}
+div {
+	border: 2px white solid;
+	color:white;
+	text-align: center;
+	display: block;
+
+
+}
+ img{
+	width: 200px;
+}
+button {
+	width: 100px;
+}
+.power{
+	background-color: gold;
+}
+#red{
+	color: red;
+}

@@ -1,0 +1,92 @@
+*{
+	margin:0;
+	padding:0;
+}
+#header{
+	background-color: grey;
+	
+}
+#header h2{
+	vertical-align: center;
+	display: inline-block;
+	margin-left: 875px;
+}
+#header h1{
+	vertical-align: center;
+	display: inline-block;
+}
+#jayneimg{
+	max-width:600px;
+	max-height: 450px;
+	margin:5px;
+}
+.title{
+	background-color: lightgrey;
+}
+#about{
+	width:950px;
+	height: 450px;
+	display:inline-block;
+	background-color: white;
+	vertical-align:250px;
+}
+#lamode{
+	display: inline-block;
+	width:400px;
+	margin:50px;
+}
+.extraimg{
+	display: block;
+	width:400px;
+}
+.badges{
+	width:50px;
+}
+#familycontacts{
+	display: inline-block;
+	width:400px;
+	margin:50px;
+}
+.columns{
+
+}
+#fiveeleven{
+	width: 400px;
+	display: inline-block;
+	margin:50px;
+}
+.badges{
+	width:50px;
+}
+#footer{
+	text-align: center;
+}
+.scmedia{
+	width:25px;
+}
+.button{
+	text-align: center;
+	background-color: green;
+	display: block;
+	border-radius: 15px;
+	margin-left:35%;
+}
+.column{
+	height: 350px;
+}
+ p{
+ 	font-size:18pt;
+ 	background-color: white; 
+ }
+ #container{
+ 	background-color: brown;
+ }
+ #footer{
+ 	background-color: grey;
+ }
+ .allbadges{
+ 	background-color: white;
+ }
+ #bluelink{
+ 	vertical-align: bottom;
+ }

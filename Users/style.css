@@ -1,0 +1,14 @@
+#wrapper{
+	width: 970px;
+}
+input{
+	display: block;
+}
+table {
+	width:700px;
+	display: inline-block;
+	border: solid;
+}
+td{
+	margin: 25px;
+}

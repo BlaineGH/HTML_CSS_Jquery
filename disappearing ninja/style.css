@@ -1,0 +1,13 @@
+#wrapper{
+	width:970px;
+	text-align: center;
+}
+div{
+	display: inline-block;
+}
+#imgs{
+	width: 900px;
+}
+img{
+	width:200px;
+}

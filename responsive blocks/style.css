@@ -1,0 +1,61 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.box{
+	display: inline-block;
+	padding:50px;
+	height: 50px;
+}
+#redbox{
+	background-color: red;
+}
+.yellowbox{
+	background-color: yellow;
+}
+#topgreen{
+	background-color: green;
+}
+#blueside{
+	background-color: blue;
+
+}
+#purplebox{
+	background-color: purple;
+}
+#cluster{
+}
+
+@media only screen and (max-width: 480px){
+	.sm-4{
+		width:100%;
+	}
+	.sm-3{
+		width:75%;
+	}
+	.sm-0{
+		display: none;
+	}
+}
+@media only screen and (min-width: 481px){
+	.med-4{
+		width:100%;
+	}
+	.med-2{
+		width: 50%;
+	}
+	.med-0{
+		display: none;
+	}
+}
+@media only screen and (min-width: 900px){
+	.lg-4{
+		width: 100%;
+	}
+	.lg-3{
+		width: 75%;
+	}
+	.lg-1{
+		width: 25%;
+	}
+}

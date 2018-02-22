@@ -1,0 +1,84 @@
+
+#container{
+	width: 100%;
+}
+.testing{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+}
+.row{
+	border:2px solid blue;
+	padding: 20px;
+}
+#para{
+	width:100%;
+}
+button{
+	background-color: purple;
+}
+@media only screen and (max-width: 480px){
+	.sm-4{
+		width:100%;
+	}
+	.sm-3{
+		width:75%;
+	}
+	.sm-2{
+		width:50%;
+	}
+	.sm-1{
+		width:25%;
+	}
+	.sm-0{
+		display: none;
+	}
+	.testing{
+		background-color: yellow;
+	}
+}
+@media only screen and (min-width: 481px){
+	.med-0{
+		display: none;
+	}
+
+	.med-4{
+		width:100%;
+	}
+	.med-3{
+		width: 75%;
+	}
+	.med-2{
+		width: 50%;
+	}
+	.gg{
+		display: none;
+	}
+	.testing{
+		background-color: green;
+	}
+}
+@media only screen and (min-width: 900px){
+	.lg-0{
+		display: none;
+	}
+	.lg-1{
+		width: 25%;
+	}
+	.lg-2{
+		width: 50%;
+	}
+	.lg-3{
+		width: 75%;
+	}
+	.lg-4{
+		width: 100%;
+	}
+	.testing{
+		background-color: red;
+	}
+	.gg{
+		display: block;
+		height:10%;
+	}
+}
